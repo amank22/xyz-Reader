@@ -4,7 +4,7 @@
     <dimen name="detail_body_text_size">16sp</dimen>
 
     <dimen name="fab_elevation">6dp</dimen>
-    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="up_width">56dp</dimen>
     <dimen name="fab_size">56dp</dimen>
